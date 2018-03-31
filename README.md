@@ -1,5 +1,7 @@
 # Assignments
-This repository contains my assignments
+This repository contains some information and my assignments
+<br>
+Sam Hamers, 2014708
 
 ### Assignments can be found here:
 * [Assignment 2](https://github.com/SamHamers/Assignments/blob/master/Test-1.docx)
