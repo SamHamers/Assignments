@@ -10,8 +10,8 @@ This repository contains some information and my assignments
 * [Assignment 4](https://github.com/SamHamers/Assignments/blob/master/assignment_4.ipynb)
 
 <b>R</b>
-* [Assignment 5](https://github.com/SamHamers/Assignments/blob/master/assignment_5.ipynb)
-* [Assignment 6](https://github.com/SamHamers/Assignments/blob/master/assignment_6.ipynb)
+* [Assignment 5](https://github.com/SamHamers/Assignments/blob/master/Assignment_5.ipynb)
+* [Assignment 6](https://github.com/SamHamers/Assignments/blob/master/Assignment_6.ipynb)
 
 ### Other files
 <i>This is empty for now</i>
