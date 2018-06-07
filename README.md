@@ -13,5 +13,8 @@ This repository contains some information and my assignments
 * [Assignment 5](https://github.com/SamHamers/Assignments/blob/master/Assignment_5.ipynb)
 * [Assignment 6](https://github.com/SamHamers/Assignments/blob/master/Assignment_6.ipynb)
 
-### Other files
-<i>This is empty for now</i>
+### Exams
+<b>Python<b>
+  * [Assignment 2](https://github.com/SamHamers/Assignments/blob/master/Assignment_2.ipynb)
+<b>R<B>
+  * [Assignment 2](https://github.com/SamHamers/Assignments/blob/master/Assignment_2.ipynb)
