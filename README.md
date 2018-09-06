@@ -14,8 +14,15 @@ This repository contains some information and my assignments
 * [Assignment 6](https://github.com/SamHamers/Assignments/blob/master/Assignment_6.ipynb)
 
 ### Exams
-<b>Python<b>
+<b>Python</b>
   * [Exam Python](https://github.com/SamHamers/Assignments/blob/master/Exam_Python.ipynb)
 
-<b>R<B>
+<b>R</b>
   * [Exam R](https://github.com/SamHamers/Assignments/blob/master/Exam_R.ipynb)
+ 
+ ### Exams September 7th
+ <b>Python</b>
+  * [Exam Python September 7th](https://github.com/SamHamers/Assignments/blob/master/Exam_Python_Sept.ipynb)
+ 
+ <b>R</b>
+  * [Exam R September 7th](https://github.com/SamHamers/Assignments/blob/master/Exam_R_Sept.ipynb)
