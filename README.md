@@ -22,7 +22,7 @@ This repository contains some information and my assignments
  
  ### Exams September 7th
  <b>Python</b>
-  * [Exam Python September 7th](https://github.com/SamHamers/Assignments/blob/master/Exam_Python_Sept.ipynb)
+  * [Exam Python September 7, 2018](https://github.com/SamHamers/Assignments/blob/master/Exam Python September 7, 2018.ipynb)
  
  <b>R</b>
-  * [Exam R September 7th](https://github.com/SamHamers/Assignments/blob/master/Exam_R_Sept.ipynb)
+  * [Exam R September 7, 2018](https://github.com/SamHamers/Assignments/blob/master/Exam Python September 7, 2018.ipynb)
